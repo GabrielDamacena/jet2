@@ -1,0 +1,17 @@
+.container{
+    background-color: brown;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.item{
+    background-color: aqua;
+    border: 1px solid black;
+    text-align: center;
+    
+    
+    
+}
